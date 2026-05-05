@@ -5,7 +5,7 @@ FruitGuard is a smart system that detects fruit freshness using a combination of
 
 It integrates a **mobile application, backend API, and machine learning model** to provide real-time predictions and spoilage alerts.
 
----
+--
 
 ##  Features
 - 📸 Image-based freshness detection using deep learning  
